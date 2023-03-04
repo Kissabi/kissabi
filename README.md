@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, i'm Kayenga Campos. ☺️
 
-<!--
-**Kissabi/kissabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My problem-solving approach is centered around understanding the problem domain, identifying the most important factors, and using a combination of creativity and analytical rigor to arrive at a solution. I believe in approaching problems from multiple angles and working collaboratively with others to achieve the best possible outcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🤖 I’m currently working on ![Fast-NER](kissabi/fast-ner)
+- 📖 I’m currently learning about Statistics Learning and Python.
+- 🔎 I’m looking to collaborate on projects around machine and deep learning.
+- 💬 Ask me about data science.
+- 📫 How to reach me: [Kaggle](https://kaggle.com/kayenga) [Linkedin](https://linkedin.com/in/kayenga) | [Write me] (mailto:kayengacampos@gmail.com)
+
+
