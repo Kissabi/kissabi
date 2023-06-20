@@ -1,4 +1,4 @@
-## Hi there, i'm Kayenga Campos. ☺️
+## Hi there, i'm Kayenga Campos, a data scientist from Angola. ☺️
 
 
 My problem-solving approach is centered around understanding the problem domain, identifying the most important factors, and using a combination of creativity and analytical rigor to arrive at a solution. I believe in approaching problems from multiple angles and working collaboratively with others to achieve the best possible outcome.
